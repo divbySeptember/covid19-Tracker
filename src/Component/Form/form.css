@@ -1,0 +1,19 @@
+.subbar {
+  padding: 5px 10px;
+  display: flex;
+  justify-content: space-between;
+  color: black;
+  background: rgb(247, 247, 247);
+}
+
+h2 {
+  width: 20px;
+  height: 20px;
+  font-size: 1.4rem;
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+  border-radius: 50px;
+  background-color: rgb(66, 68, 189);
+  color: white;
+}
